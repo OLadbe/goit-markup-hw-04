@@ -330,7 +330,7 @@ img {
   background-color: #404BBF;
 }
 
-.tema-icon {
+.team-icon {
   fill: #f4f4fd
 }
 
@@ -517,7 +517,6 @@ img {
 }
 
 .footer-icon-link{
-  fill: #f4f4fd;
   width: 40px;
   height: 40px;
   background-color: #4D5AE5;
@@ -540,6 +539,10 @@ img {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+}
+
+.footer-icon{
+  fill: #f4f4fd;
 }
 
 .footer-logo {
